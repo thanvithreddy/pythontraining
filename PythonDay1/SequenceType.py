@@ -1,0 +1,17 @@
+#list,tuple,set
+#LIST
+Lang=['Java','Python','C','C++']
+print(Lang)
+print(type(Lang))
+#TUPLE
+Lang=('Java','Python','C','C++')
+print(Lang)
+print(type(Lang))
+#SET
+Lang={'Java','Python','C','C++'}
+print(Lang)
+print(type(Lang))
+#DICT
+Lang={101:"Python",102:"Java"}
+print(Lang)
+print(type(Lang))

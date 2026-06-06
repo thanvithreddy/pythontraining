@@ -1,0 +1,8 @@
+name=int(input("Enter the two Numbers: "))
+name2=int(input())
+
+
+if(name>name2):
+    print(name, "is Greater  than ",name2)
+else:
+    print(name2, " is Greater than ",name)

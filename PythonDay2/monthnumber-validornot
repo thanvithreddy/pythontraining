@@ -1,0 +1,7 @@
+month=int(input("Enter the Month Number: "))
+
+if(month>0 and month<=12):
+    print("Month is Valid")
+
+else:
+    print("Month is not Valid")
