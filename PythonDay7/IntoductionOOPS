@@ -1,0 +1,32 @@
+Procedure Oriented Approach:
+    ----->Top Down Approach
+
+Object Oriented Programming System:
+    ----->Bottom-Up Approach
+    1.Inheritance
+    2.Polymorphism
+    3.Encapsulation
+    4.Abstraction
+
+
+Entity-Anything which has the Existence or Anything which Exists
+Class-It is a logical Entity or blueprint or a plan to create multiple objects
+Object-It is a Real World Physical Entity
+
+Attributes are represented by variable that contains data.
+
+Method performs an action or task, It is similar to function
+
+How to Create Class:
+to define a class, we use the keyword 'class' followed by the name of the class and a colon. The body of the class is indented and contains attributes and methods. 
+   Example:
+    class Mobile:
+
+Object -->
+1.States: Ststes represents attributes or propertines of an Entity. 
+       Data Member
+
+2.Behaviour: Functionality or action or work performed by enitity
+       Methods
+
+
