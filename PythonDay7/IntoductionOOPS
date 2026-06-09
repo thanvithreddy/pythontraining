@@ -29,4 +29,23 @@ Object -->
 2.Behaviour: Functionality or action or work performed by enitity
        Methods
 
+Global Variable: A variable which is declared within the class but outside the method, constructor or block is called global variable.
+It will have global scope
 
+Local Variable: A variable which is declared within the 
+
+
+Data Members : Variable, Constant
+ Variable: Global Variable, Local Variable
+ Global Variable: Static Variable, Instance Variable
+
+ Student: Attributes or Properties
+    1.Name
+    2.Roll No
+    3.Age
+    4.Class
+
+Constructor: It is a special type of method which is used to initialize the state of an object. It is automatically called when an object is created. The name of the constructor is same as the name of the class and it does not have any return type.
+Types: parameterized ,Non-parameterized
+
+Every Class has has ___int___ and this is executed when we instantiate teh class. It is used to initialize the state of an object. It is automatically called when an object is created. The name of the constructor is same as the name of the class and it does
